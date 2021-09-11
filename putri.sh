@@ -75,9 +75,7 @@ echo -e "aku yo kangennn puolllllll aa mwwahhhhhhh"
 echo -e "tunggu yaaaa"
 sleep 4
 clear
-figlet"
-I LOVE YOUUUUUUUUUUUU
-" | lolcat
+figlet I LOVE YOUUUUUUUUUUUU | lolcat
 else
 echo -e "PILIH SG BENER KETIK TITIK/WAKEH"
 sleep 3
